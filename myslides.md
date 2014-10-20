@@ -2,6 +2,8 @@
 
 ### Matt Aldridge
 
+[http://mlaldrid.github.io/spark-dbpedia](http://mlaldrid.github.io/spark-dbpedia)
+
 
 Research Software Engineer
 
